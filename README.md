@@ -8,8 +8,16 @@ On directory: `docker-compose up -d`
 
 ### Applications Structures 
 
-<img src="structure.png" alt="Applications Structures" width="600"/>
+<p align="center">  
+  <img src="structure.png" alt="Applications Structures" width="600"/>
+</p>
 
 Access in: [http://localhost](http://localhost)
 
 > NOTE: You need have docker installed
+
+### Course Certificate
+
+<p align="center">
+  <img src="certificate.jpg" alt="Course Certificate" width="600"/>
+</p>
