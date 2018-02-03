@@ -4,16 +4,12 @@ Esse repositório contempla os projetos e estudos abordados no curso [Docker: Fe
 
 ### Building Apps With Docker
 
-On directory: 
-
-```
-docker-compose up -d
-```
+On directory: `docker-compose up -d`  
 
 ### Applications Structures 
 
-<img src="structure.png" alt="Applications Structures" width="500"/>
+<img src="structure.png" alt="Applications Structures" width="600"/>
 
 Access in: [http://localhost](http://localhost)
 
->> NOTE: You need have docker installed
+> NOTE: You need have docker installed
