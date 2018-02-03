@@ -1,6 +1,6 @@
 # Algumas anotações
 
-Rodar o todo os serviços: `docker-compose up -d`
+Rodar todos os serviços: `docker-compose up -d`
 
 Escalar os workers: `docker-compose up -d --scale worker=<NUMBER>`
 
